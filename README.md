@@ -1,2 +1,2 @@
 # python-Tkinker
-This repository contains   few examples of tkinker framework.
+- This repository contains   few examples of tkinker framework.
